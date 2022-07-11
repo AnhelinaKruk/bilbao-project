@@ -1,0 +1,205 @@
+body {
+    max-width: 1440px;
+    margin: auto;
+    overflow-x: hidden;
+}
+.sections {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-head {
+    padding: 1% 0;
+    align-items: center;
+    text-align: center;
+}
+#main-head-p {
+    text-align: center;
+    max-width: 1440px;
+}
+.section-photo-1 {
+    height: 755px;
+}
+.section-photo-1 > img {
+    width: 1440px;
+    height: 755px;
+}
+/* .section-photo, .section-text {
+    width: 50%;
+} */
+.first-section{
+    height: 720px;
+    background-image: url("img/museum3.JPG");
+    background-repeat: no-repeat;
+    border-bottom: var(--сolor-yellow) solid 3px;
+}
+.first-section > .section-text {
+    padding: 2%;
+    justify-content: flex-start;
+    position: absolute;
+    color: white;
+}
+
+.main-title-places {
+    padding-top: 30px;
+}
+
+.some-title {
+    line-height: 50px;
+}
+
+.casco-viejo {
+    padding-top: 40px;
+    padding-left: 40px;
+    width: 660px;
+}
+
+p {
+    max-width: 650px;
+}
+
+.section-text {
+    padding: 40px 90px 20px 30px;
+}
+
+#nav-item-5 {
+  padding-bottom: 1px;
+  border-bottom: var(--сolor-yellow) solid 3px;
+  border-radius: 20px;
+}
+h2 {
+    font-size: 25px;
+    font-family: 'Raleway';
+}
+.section-text, .section-photo {
+    width: 50%;
+    height: 500px;
+}
+.section-p {
+    font-size: 18px;
+    line-height: 25px;
+}
+.own {
+    background-color: var(--сolor-yellow);
+    height: 2px;
+    width: 100%;
+    /* margin-left: 15%; */
+}
+.own2 {
+    background-color: var(--сolor-yellow);
+    height: 2px;
+    width: 70%;
+}
+/* #pd {
+    background-color: rgba(0, 0, 0, 1%);
+} */
+#p1 {
+    background: linear-gradient(180deg, rgba(255,255,255,1) 62%, rgba(241,241,241,1) 100%, rgba(0,212,255,1) 100%);
+}
+#p2 {
+    background: linear-gradient(360deg, rgba(255,255,255,1) 62%, rgba(241,241,241,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        max-width: 600px;
+        margin: auto;
+        overflow: hidden;
+    }
+    .section-text, .section-photo {
+        width: 100%;
+        height: auto;
+    }   
+    #section-photo-nueva, #section-photo-nueva, #section-photo-mount, #section-photo-sopelana {
+        height: 503px;
+        border-bottom: var(--сolor-yellow) 3px solid;
+    }
+    .section-photo > img {
+        width: 575px;
+        height: 500px;
+    }
+
+    h2 {
+        text-align: left;
+        max-width: 400px;
+        padding-left: 15px;
+        padding-top: 20px;
+        font-size: 30px;
+        line-height: 25px;
+        padding-left: 20px;
+    }
+
+    #main-head-p {
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 10px;
+    max-width: 370px;
+    line-height: 20px;
+    padding-bottom: 15px;
+    }
+
+    .line {
+        width: 420px;
+    }
+
+    .section-photo-1 > img {
+        width: 574px;
+    }
+    .main-head > h2{
+        font-size: 20px;
+    }
+
+    .lastest {
+        padding: 0;
+        margin: 0;
+        height: 70px;
+    }
+
+    .main-head > p {
+        font-size: 15px;
+        text-align: left;
+        padding-bottom: 10px;
+    }
+    .section-text > h3 {
+        font-size: 45px;
+        line-height: 45px;
+        padding-top: 20px;
+    }
+    .section-p {
+        font-size: 22px;
+        line-height: 25px;
+        max-width: 340px;
+        padding-bottom: 30px;
+    }
+    .first-section {
+        height: 1000px;
+    }
+
+    .section-text {
+        padding-top: 20px; 
+        padding-left: 15px;
+        padding-bottom: 20px;
+        padding-right: 0; 
+        /* max-width: 340px; */
+    }
+
+    .casco-viejo {
+        padding-left: 18px;
+        max-width: 400px;
+    }
+
+
+    h3.some-title {
+        max-width: 350px;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+}

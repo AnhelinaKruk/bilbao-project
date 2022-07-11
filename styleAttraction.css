@@ -1,0 +1,199 @@
+html, body {
+    overflow-x: hidden;
+}
+
+main {
+    max-width: 1440px;
+    margin: auto;
+}
+h2,  p.description {
+    text-align: center;
+}
+div.description {
+    display: flex;
+    flex-wrap: wrap;
+}
+.attraction-icon, .attraction-event{
+    width: 50%;
+    height: 400px; 
+}
+div.name {
+    width: 100%;
+}
+h3{
+    font-size: 25px;
+}
+#nav-item-4 {
+    padding-bottom: 1px;
+    border-bottom: var(--сolor-yellow) solid 3px;
+    border-radius: 20px;
+}
+.own {
+    background-color: var(--сolor-yellow);
+    height: 1px;
+    /* border: var(--сolor-yellow); */
+    width: 70%;
+    /* margin-left: 15%; */
+}
+
+/* .column-reverse {
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+}
+.column-reverse > .attraction-event, .attraction-icon {
+    width: 50%;
+    height: 400px;     
+} */
+
+h1 {
+    line-height: 40px;
+}
+h2 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-size: 35px;
+    font-weight: 500;
+}
+.pd {
+    font-size: 18px;
+}
+.attraction-event{
+    background-color: white;
+    padding-left: 5%;
+    padding: 3%;
+}
+
+#p1{
+    padding-top: 2%;
+}
+
+#p1, #p1-2 {
+    background: linear-gradient(180deg, rgba(255,255,255,1) 62%, rgba(241,241,241,1) 100%, rgba(0,212,255,1) 100%);
+}
+#p2 {
+    background: linear-gradient(360deg, rgba(255,255,255,1) 62%, rgba(241,241,241,1) 100%, rgba(0,212,255,1) 100%);
+}
+#h2-introduction {
+    text-align: left;
+}
+.introduction-text {
+    width: 500px;
+    height: 400px;
+}
+#p-introduction {
+    font-size: 17px;
+}
+.introduction {
+    height: 720px;
+    background-image: url("img/baner.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 20%;
+    padding-left: 10%;
+}
+#p {
+    background-color: rgba(0, 0, 0, 1%);
+}
+#p-chillida {
+    line-height: 25px;
+}
+@media screen and (max-width:600px){
+    .introduction {
+        height: 680px;
+        background-image: url("img/baner.JPG");
+        width: 100%;
+        background-repeat: no-repeat;
+        color: white;
+        padding-top: 43%;
+        padding-left: 5%;
+    }
+
+    #first-photo {
+        height: 200px;
+    }
+
+    .introduction-text {
+        width: 500px;
+        height: 400px;
+    }
+    #h1-introduction {
+        text-align: left;
+        max-width: 370px;
+        line-height: 35px;
+        padding-bottom: 10px;
+        font-size: 30px;
+    }
+
+    #p-introduction {
+        max-width: 340px;
+    }
+    .attraction-icon, .attraction-event{
+        width: 100%;
+        height: auto;
+    }
+    /* #attraction-event-concert {
+        height: 100px;
+    } */
+    /* #attraction-icon-fishing{
+        height: 400px;
+    }
+    #attraction-icon-fishing > img {
+        height: 400px;
+    } */
+    #p1-2 {
+        background: rgba(0, 0, 0, 1%);
+    }
+    .attraction-icon > img{
+        width: 420px;
+        height: 270px;
+    }
+    .attraction-icon{
+        height: 270px;
+    }
+
+    h2 {
+        text-align: left;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+
+    h3 {
+        font-size: 30px ;
+        max-width: 320px;
+    }
+
+    .own {
+        margin-left:3%;
+        width: 300px;
+        height: 2px;
+    }
+    .attraction-event > .own {
+        margin-left: 0;
+    }
+    .pd {
+        max-width: 360px;
+    }
+
+    .column-reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    hr {
+        width: 100%;
+    }
+    p.description {
+        text-align: left;
+        padding-left: 4%;
+        padding-top: 3%;
+        max-width: 320px;
+    }
+
+    .own {
+    background-color: var(--сolor-yellow);
+    height: 1px;
+    width: 70%;
+    margin-left: 0;
+}
+}

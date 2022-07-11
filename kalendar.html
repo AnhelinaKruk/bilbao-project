@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BilbaoCalendar</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styleCalendar.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="//fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900,300italic,400italic|Raleway:100,200,300,400,500,600,700,800,900,300italic,400italic|Open+Sans:100,200,300,400,500,600,700,800,900,300italic,400italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,400;0,700;1,400;1,700&amp;family=Magra:wght@700&amp;family=Red+Hat+Text:wght@500&amp;display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header" id="header">
+        <div class="container header-container">
+            <div class="header-logo">
+                <a href="index.html" class="header-logo-link">
+                    <img itemprop="image" class="mobile" src="http://www.educationandmobility.com/wp-content/uploads/2016/12/logoeducation31-300x103.png" alt="Logo" style="height: 80px">
+                </a>
+            </div>
+            <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">
+                        Main page
+                    </a>
+                </li>
+                <li class="nav-item" id="nav-item-2">
+                    <a href="kalendar.html" class="nav-link">
+                        Calendar
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="food.html" class="nav-link">
+                        Food
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="attractions.html" class="nav-link">
+                        Attractions
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="places.html" class="nav-link">
+                        Places
+                    </a>
+                </li>
+            </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="div">
+            <div class="div2">
+                <h1>Calendar of events</h1>
+                <section class="calendar-august">
+                    <section class="calendar-table" id="august">
+                        <h3>August - 2022</h3>
+                        <table>
+                            <thead>
+                                <th>MON</th>
+                                <th>TUE</th>
+                                <th>WED</th>
+                                <th>THR</th>
+                                <th>FRI</th>
+                                <th>SAT</th>
+                                <th>SUN</th>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td id="a1" onclick="cal('a1')">1</td>
+                                    <td id="a2" onclick="cal('a2')">2</td>
+                                    <td id="a3" onclick="cal('a3')">3</td>
+                                    <td id="a4" onclick="cal('a4')">4</td>
+                                    <td id="a5" onclick="cal('a5')">5</td>
+                                    <td id="a6" onclick="cal('a6')">6</td>
+                                    <td id="a7" onclick="cal('a7')">7</td>
+                                </tr>                        
+                                <tr>
+                                    <td id="a8" onclick="cal('a8')">8</td>
+                                    <td id="a9" onclick="cal('a9')">9</td>
+                                    <td id="a10" onclick="cal('a10')">10</td>
+                                    <td id="a11" onclick="cal('a11')">11</td>
+                                    <td id="a12" onclick="cal('a12')">12</td>
+                                    <td id="a13" onclick="cal('a13')">13</td>
+                                    <td id="a14" onclick="cal('a14')">14</td>
+                                </tr>
+                                <tr>
+                                    <td id="a15" onclick="cal('a15')">15</td>
+                                    <td id="a16" onclick="cal('a16')">16</td>
+                                    <td id="a17" onclick="cal('a17')">17</td>
+                                    <td id="a18" onclick="cal('a18')">18</td>
+                                    <td id="a19" onclick="cal('a19')">19</td>
+                                    <td id="a20" onclick="cal('a20')">20</td>
+                                    <td id="a21" onclick="cal('a21')">21</td>
+                                </tr>
+                                <tr>
+                                    <td id="a22" onclick="cal('a22')">22</td>
+                                    <td id="a23" onclick="cal('a23')">23</td>
+                                    <td id="a24" onclick="cal('a24')">24</td>
+                                    <td id="a25" onclick="cal('a25')">25</td>
+                                    <td id="a26" onclick="cal('a26')">26</td>
+                                    <td id="a27" onclick="cal('a27')">27</td>
+                                    <td id="a28" onclick="cal('a28')">28</td>
+                                </tr>
+                                <tr>
+                                    <td id="a29" onclick="cal('a29')">29</td>
+                                    <td id="a30" onclick="cal('a30')">30</td>
+                                    <td id="a31" onclick="cal('a31')">31</td>
+                                    <td id="other">1</td>
+                                    <td id="other">2</td>
+                                    <td id="other">3</td>
+                                    <td id="other">4</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </section>
+                    <section class="calendar-event">
+                        <h3 id="NameDayAug"></h3>
+                        <h4 id="NameEventAug"></h4>
+                        <p id="AboutEventAug"></p>
+                        <p id="AddressAug"></p>
+                        <h4 id="NameEventAug2"></h4>
+                        <p id="AboutEventAug2"></p>
+                        <p id="AddressAug2"></p>
+                    <div class="button-container">
+                    <button class="button-change">
+                        <a href="kalendar2.html">September</a>
+                    </button>
+                    </div> 
+                    </section>           
+                </section>
+                <section class="calendar-september" >
+                    <section class="calendar-event">
+                        <h3 id="NameDaySep"></h3>
+                        <h4 id="NameEventSep"></h4>
+                        <p id="AboutEventSep"></p>
+                        <p id="AddressSep"></p>
+                        <h4 id="NameEventSep2"></h4>  
+                        <p id="AboutEventSep2"></p>
+                        <p id="AddressSep2"></p>                
+                    </section>
+                    <section class="calendar-table">
+                        <h3>September - 2022</h3>
+                        <table>
+                            <thead>
+                                <th>MON</th>
+                                <th>TUE</th>
+                                <th>WED</th>
+                                <th>THR</th>
+                                <th>FRI</th>
+                                <th>SAT</th>
+                                <th>SUN</th>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td id="other">29</td>
+                                    <td id="other">30</td>
+                                    <td id="other">31</td>
+                                    <td id="s1" onclick="calSep('s1')">1</td>
+                                    <td id="s2" onclick="calSep('s2')">2</td>
+                                    <td id="s3" onclick="calSep('s3')">3</td>
+                                    <td id="s4" onclick="calSep('s4')">4</td>
+                                </tr>
+                                <tr>
+                                    <td id="s5" onclick="calSep('s5')">5</td>
+                                    <td id="s6" onclick="calSep('s6')">6</td>
+                                    <td id="s7" onclick="calSep('s7')">7</td>
+                                    <td id="s8" onclick="calSep('s8')">8</td>
+                                    <td id="s9" onclick="calSep('s9')">9</td>
+                                    <td id="s10" onclick="calSep('s10')">10</td>
+                                    <td id="s11" onclick="calSep('s11')">11</td>
+                                </tr>
+                                <tr>
+                                    <td id="s12" onclick="calSep('s12')">12</td>
+                                    <td id="s13" onclick="calSep('s13')">13</td>
+                                    <td id="s14" onclick="calSep('s14')">14</td>
+                                    <td id="s15" onclick="calSep('s15')">15</td>
+                                    <td id="s16" onclick="calSep('s16')">16</td>
+                                    <td id="s17" onclick="calSep('s17')">17</td>
+                                    <td id="s18" onclick="calSep('s18')">18</td>
+                                </tr>
+                                <tr>
+                                    <td id="s19" onclick="calSep('s19')">19</td>
+                                    <td id="s20" onclick="calSep('s20')">20</td>
+                                    <td id="s21" onclick="calSep('s21')">21</td>
+                                    <td id="s22" onclick="calSep('s22')">22</td>
+                                    <td id="s23" onclick="calSep('s23')">23</td>
+                                    <td id="s24" onclick="calSep('s24')">24</td>
+                                    <td id="s25" onclick="calSep('s25')">25</td>
+                                </tr>
+                                <tr>
+                                    <td id="s26" onclick="calSep('s26')">26</td>
+                                    <td id="s27" onclick="calSep('s27')">27</td>
+                                    <td id="s28" onclick="calSep('s28')">28</td>
+                                    <td id="s29" onclick="calSep('s29')">29</td>
+                                    <td id="s30" onclick="calSep('s30')">30</td>
+                                    <td id="other">1</td>
+                                    <td id="other">2</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </section>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-logo">
+        <a href="index.html" class="logo-link">
+            <img itemprop="image" class="mobile" src="http://www.educationandmobility.com/wp-content/uploads/2016/12/logoeducation31-300x103.png" alt="Logo" style="height: 50px">
+        </a>
+        </div>
+        <p class="footer-year">
+        Bilbao - 2022
+        </p>
+        <div class="arrow">
+            <a href="#header">
+                <img src="img/arrowhead-up.png" alt="arrowhead-up">
+            </a>
+        </div>
+    </footer>
+    <script src="calendar.js"></script>
+</body>
+</html>

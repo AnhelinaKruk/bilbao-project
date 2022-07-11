@@ -1,0 +1,17 @@
+@media(min-width: 0px) and (max-width: 600px) {
+    .calendar-september {
+        display: block;
+        margin-top: 0px;
+    }
+
+    .div2 {
+        height: 90%;
+        background-color: white;
+        background-position: top;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding-bottom: 200px;
+        border-radius: 15px;
+    }
+
+}
