@@ -11,8 +11,8 @@ function cal(August){
         break;
         case 'a2':
             document.getElementById('NameDayAug').innerHTML="2nd of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="Located on Bailen Kalea, the railway station is large and semicircular. It contains only a glass-iron door that shows the entrance to the lower hall, where we can see metal columns that span the entire area. The upper hall connects to Casco Viejo, where the various offices are located."
+            document.getElementById("NameEventAug").innerHTML="Bilbao-Concordia"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -20,8 +20,8 @@ function cal(August){
         break;
         case 'a3':
             document.getElementById('NameDayAug').innerHTML="3rd of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="The Diocesan Museum of Sacred Art currently has a collection of more than 2,000 pieces, of which about 500 are on display. These pieces range from the twelfth to the twentieth century, although there are some materials of archaeological interest dating back to the third century."
+            document.getElementById("NameEventAug").innerHTML="Diocesan Museum od Sacred Art."
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -29,8 +29,8 @@ function cal(August){
         break;
         case 'a4':
             document.getElementById('NameDayAug').innerHTML="4th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="Euskararen Etxea, or the House of the Basque Language, is located in the San Ignazio district of Bilbao, and was founded in 2004 as the result of a collaborative effort involving the Bizkaia Provincial Council, the Bilbao City Council and the Basque Regional Government. It is currently managed by the Azkue Fundazioa."
+            document.getElementById("NameEventAug").innerHTML="Euskararen Extea"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -38,8 +38,8 @@ function cal(August){
         break;
         case 'a5':
             document.getElementById('NameDayAug').innerHTML="5th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="The steep streets of Portugalete's old town by the Basque Bridge, one of the most interesting places in the city. This historical and artistic ensemble has kept its old medieval character. Attractions that can be visited there are: Basque Bridge, Riala Museum and Salazar Tower. Of course, you can also eat well in restaurants, such as: Garbatella - Italnian Cuisine and La Bodega - tapas bar"
+            document.getElementById("NameEventAug").innerHTML="Portugaete"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -47,8 +47,8 @@ function cal(August){
         break;
         case 'a6':
             document.getElementById('NameDayAug').innerHTML="6th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="It is the old royal Basque language academy (former seat of the Provincial Council). The place is styled in Roman costume and looks much like the rest of Central Spanish squares"
+            document.getElementById("NameEventAug").innerHTML="Bilbao Provincial Council Hall"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -56,8 +56,8 @@ function cal(August){
         break;
         case 'a7':
             document.getElementById('NameDayAug').innerHTML="7th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="It is one of Bilbao's main streets, 1.5 km long and 50 meters wide. Its design was presented in 1876 by the architect Achúcarro and the engineers Alzola and Hoffmeyer. It connects the two places Plaza Circular and Plaza del Sagrado Corazón."
+            document.getElementById("NameEventAug").innerHTML="Don DIego Lopez"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -65,8 +65,8 @@ function cal(August){
         break;
         case 'a8':
             document.getElementById('NameDayAug').innerHTML="8th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="The origins of Bilbao's sweets tradition have been lost in the mists of time. You'll love the traditional butter bread combined with eggs and syrup in a special recipe. Or rice cakes, fine cream in a pastry cradle."
+            document.getElementById("NameEventAug").innerHTML="The sweet tempation"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -74,8 +74,8 @@ function cal(August){
         break;
         case 'a9':
             document.getElementById('NameDayAug').innerHTML="9th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="Las Arenas is a district of Getxo (Viscaia, Basque Country, Spain). This is a wealthy residential area built in the early 20th century on the sands of the beach, where the Gobera Creek joins the delta at the mouth of the Bilbao River. It is connected to Portugal on the other side of the fjord by the Vizcaya transport bridge, it has a marina, a small beach that unfortunately may be polluted, and a monument to Evaristo Churruca, who planned and directed the canalization of the estuary. The Biscay Bridge is now a tourist attraction and visitors can take the elevator to the top of the bridge (from where it originally operated)."
+            document.getElementById("NameEventAug").innerHTML="Las Arenas"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -83,8 +83,8 @@ function cal(August){
         break;
         case 'a10':
             document.getElementById('NameDayAug').innerHTML="10th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="It's on the gourmet's table and goes well with all seafood...it's a vibrant young white wine from the region known as txakoli. The quality of Txakoli D.O. Bizkaia is characterised on the one hand by the characteristics of the natural environment and the specific variety, whose grapes are ripened in sunny vineyards, sheltered from the cold north wind, and on the other by the meticulous craftsmanship of the people who produce it."
+            document.getElementById("NameEventAug").innerHTML="Txakoli"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -92,8 +92,8 @@ function cal(August){
         break;
         case 'a11':
             document.getElementById('NameDayAug').innerHTML="11th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="Situated at one end of the Bay of Biscay, Lekeitio combines a jewel of Gothic architecture with the charm of a fishing village and expansive beach. Lekeitio is located at the mouth of the Lea River. Two beautiful beaches overlooking the island of St. Nicholas can be reached on foot at low tide. It also has interesting attractions: Garraitz Argaizto Island, Isuntza Beach, Karraspio Beach, Lekeitio Port, Santa Catalina Lighthouse. Some great restaurants to visit are: Erkiaga Taberna - Basque cuisine and EgunSentia - cafeteria"
+            document.getElementById("NameEventAug").innerHTML="Lekeitio"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -101,8 +101,8 @@ function cal(August){
         break;
         case 'a12':
             document.getElementById('NameDayAug').innerHTML="12th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="The museum shows us wonderfully reconstructed old sculptures and great works of the world that were made many centuries ago and now we can see them live with our own eyes"
+            document.getElementById("NameEventAug").innerHTML="Museum of Artistic reproductions"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -110,8 +110,8 @@ function cal(August){
         break;
         case 'a13':
             document.getElementById('NameDayAug').innerHTML="13th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="It is one of the most interesting places to visit, as it is one of the tallest skyscrapers in Bilbao, which is the 6th largest skyscraper in Spain. It is 165 meters high and 41 floors. The design of this building was created by César Pelli. The structure of the building consists of an isosceles triangle with slightly curved sides. It is located on the Eustary of Bilbao River and on Euskadi Plaza."
+            document.getElementById("NameEventAug").innerHTML="Torre Iberdrola"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -119,8 +119,8 @@ function cal(August){
         break;
         case 'a14':
             document.getElementById('NameDayAug').innerHTML="14th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="Today the game is played by Mallorca vs Ath Bilbao, at the stadion metro stop is San Mames"
+            document.getElementById("NameEventAug").innerHTML="Stadion San Mames"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -128,8 +128,8 @@ function cal(August){
         break;
         case 'a15':
             document.getElementById('NameDayAug').innerHTML="15th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="This place is also good for hot days, of course, it is a small aquapark, which is located in a sports center, a place recommended for everyone who likes such places"
+            document.getElementById("NameEventAug").innerHTML="Polideportivo de Txurdinaga"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -137,8 +137,8 @@ function cal(August){
         break;
         case 'a16':
             document.getElementById('NameDayAug').innerHTML="16th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="An interesting attraction, a boat trip on the Bilbao River. On this trip you can visit what is around the river, the stadium, the Guggenheim museum. Mega adventure worth recommending."
+            document.getElementById("NameEventAug").innerHTML="Bilboats Trip"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -146,8 +146,8 @@ function cal(August){
         break;
         case 'a17':
             document.getElementById('NameDayAug').innerHTML="17th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="In the Bay of El Abra, at the mouth of the River Nervión, is the commune of Getxo. This is where Argotta has an old fishing port, modern sailing facilities and a beautiful palace close to the beach. The buildings situated along the shoreline and surrounded by gardens create a beautiful architectural ensemble. Restaurants are also interesting: Karola Etxea - Basque cuisine and Restaurant Algorta - Chinese cuisine"
+            document.getElementById("NameEventAug").innerHTML="Algorta"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -155,8 +155,8 @@ function cal(August){
         break;
         case 'a18':
             document.getElementById('NameDayAug').innerHTML="18th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="Considered one of the oldest cities in Biscay, its origins are associated with the Barrick Solar House founded by Sancho Vela in 496. Its coastal location and proximity to Bilbao led to a significant increase in the population in the last half of the 20th century. The best attraction of this city are the flysch rocks."
+            document.getElementById("NameEventAug").innerHTML="Barrica"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -164,8 +164,8 @@ function cal(August){
         break;
         case 'a19':
             document.getElementById('NameDayAug').innerHTML="19th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="This beach, also known as La Cantera, is located 10 minutes from the town of Barrica, in an eastern bay protected by beautiful cliffs. This wild beach, small in size, made of sand and rocks, has no service. A small road leads to it from the parking lot located at the roundabout at the entrance to the city. Muriola is certainly the right place for those looking for a peaceful environment and also perfect for those looking to dive. The only downside of this place is that nudists like to appropriate this beach, it is not a pleasant sight for small children."
+            document.getElementById("NameEventAug").innerHTML="Playa De Muriola"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -308,8 +308,8 @@ function cal(August){
         break;
         case 'a29':
             document.getElementById('NameDayAug').innerHTML="29th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="The municipality of Soplnana is a beautiful place located in the Basque Country. It has three amazing beaches that are perfect for relaxing after a hard day."
+            document.getElementById("NameEventAug").innerHTML="Sopelana"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -317,8 +317,8 @@ function cal(August){
         break;
         case 'a30':
         document.getElementById('NameDayAug').innerHTML="30th of August"
-        document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-        document.getElementById("NameEventAug").innerHTML=""
+        document.getElementById('AboutEventAug').innerHTML="The city of Vitoria-Gasteiz was founded at the end of the 12th century and is today a model of town planning. The Basque capital has kept its medieval old town where you can find countless places full of tradition such as Piazza di Virgen Blanca and historic buildings including the Basilica of Santa Maria. Around them, the city harmoniously expands its borders, including those of the Romantic period, characterized by wide avenues, gardens and buildings that bear witness to its capital and elegance. Attractions in this place: Spanish Square, Medieval wall and Market hall in Vitoria. The restaurant of the recommendation is: Restaurante Araba - Spain cuisine"
+        document.getElementById("NameEventAug").innerHTML="Vitoria"
         document.getElementById("AddressAug").innerHTML=""
         document.getElementById("NameEventAug2").innerHTML=""
         document.getElementById("AboutEventAug2").innerHTML=""
@@ -326,8 +326,8 @@ function cal(August){
         break;
         case 'a31':
             document.getElementById('NameDayAug').innerHTML="31th of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="In the center of the Arenal gardens there is a Stage where the city orchestra once played, so that people walking in the gardens could admire the beauty of these gardens. The facade of the stage itself is beautiful, it was designed by Pedro Ispizua. The scene is turned with its back to the river so that you can admire the beautiful gardens from there."
+            document.getElementById("NameEventAug").innerHTML="Areatzako parkea"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -339,63 +339,63 @@ function calSep(September){
     switch(September){
         case 's1':
             document.getElementById('NameDaySep').innerHTML="1st of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="Casco Viejo or the Seven Streets is the oldest district and the original core of Bilbao. It is part of the Ibaiondo district and includes the Plaza Nueva and buildings such as the Arriaga Theater, Bidebarrieta Library, Bilbao Stock Exchange, Atxuri Railway Station, Santiago Cathedral and the Churches of San Antón, San Nicolás and Santos Juanes. Metro stop Casco Viejo"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Old Town"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's2':
             document.getElementById('NameDaySep').innerHTML="2nd of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="Bilbao La Vieja, also known as "Bilbi", is a trendy neighborhood on the River Nervión. There are modern clothing boutiques and multicultural restaurants in adapted industrial buildings. Basque artists exhibit their works in independent galleries and paint colorful street murals. Station metro stop is Casco Viejo"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Bilbao La Vieja Area"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's3':
             document.getElementById('NameDaySep').innerHTML="3rd of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="On that day, you can visit Plentzia, a place with a very good and great beach as well as amazing buildings in the center, you can easily sit on a bench and rest. The place itself is located at the mouth of the Plentzi River as Itsasadarra. By the river itself, you can see many small marinas for boats, and there is also a famous harbor smell, which adds a nice atmosphere to the whole place. The beach itself is nice and big. I recommend this place to everyone. Metro stop Plentzia"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Plenztia"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's4':
             document.getElementById('NameDaySep').innerHTML="4th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="Today the game is played by Ath Bilbao vs Espanyol, at the stadion metro stop is San Mames"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Stadion San Mames"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's5':
             document.getElementById('NameDaySep').innerHTML="5th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="San Sebastian is a beautiful city located in the Basque Country. It has many years of history, you can visit many great monuments, for example: Old palace ruins, many different cathedrals and basilicas, you can also go to the beaches, there are many great places to visit in this great and beautiful city. This city is not close to Bilbao itself, but it is worth the drive to see Bilbao."
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="San Sebastian"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's6':
             document.getElementById('NameDaySep').innerHTML="6th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
-            document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('AboutEventSep').innerHTML="Pintxos, every moment is a treat. This is a true Basque tradition. They start at the bar out of necessity, pairing it with what they're drinking. Gradually, thanks to their allure, they become indispensable, making the path to the future even more attractive."
+            document.getElementById('AddressSep').innerHTML="Address: Pl.Nueva 12, 48005 Bilbao, Biscay"
+            document.getElementById('NameEventSep').innerHTML="Pintxo routes restaurant"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's7':
             document.getElementById('NameDaySep').innerHTML="7th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="In Plaza Ernesto Erkoreka there is the Bilbao City Hall, built in 1892 and designed by Joaquín Rucoba. The main purpose of this building was to relocate the old town hall from Plaza Mayor. The San building is characterized by the French style, with statues at the front and a bell tower at the front of the building. Not only the town hall is an attraction here, you can also see a modern statue created by Jorge Oteiz. Metro stop Matiko"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Ernesto Erkoreka Plaza"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
@@ -441,26 +441,26 @@ function calSep(September){
         break;
         case 's11':
             document.getElementById('NameDaySep').innerHTML="11th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="Today the game is played by Elche vs Ath Bilbao, at the stadion metro stop is San Mames"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Stadion San Mames"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's12':
             document.getElementById('NameDaySep').innerHTML="12th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="It is a museum of modern art located in the so-called Guggenheim zone, which is also called the art zone. The museum itself is built in an interesting body designed by F. Gehry."
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Guggenheim Bilbao Museum"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's13':
             document.getElementById('NameDaySep').innerHTML="13th of September"
-            document.getElementById('NameEventSep').innerHTML=""
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('NameEventSep').innerHTML="San Mames Museum"
+            document.getElementById('AboutEventSep').innerHTML="For football fans it will be a great experience to visit the San Mames museum, where you can visit the changing rooms and various interesting places of the stadium from the inside and you can touch the sea. A great attraction."
             document.getElementById('AddressSep').innerHTML=""
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
@@ -538,27 +538,27 @@ function calSep(September){
         break;
         case 's19':
             document.getElementById('NameDaySep').innerHTML="19th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="You can visit the Fan Art museum on that day. The Bilbao Art Museum is interesting for a lot of people. You can find there many interesting works of art from different eras. The museum itself was opened in 1914, so there is a lot to visit there"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Fine Art. Muzeum Bilbao"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's20':
             document.getElementById('NameDaySep').innerHTML="20th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="You can visit this amazing square, it has wonderful architecture to it. From Campo Volantin Street, you can see the ZubiZuri Bridge, which is Bilbao's modern footbridge. On the other side of the bridge, there are two twin faiths named Isozaki Atea, created by Arata Isozaki himself. Two high towers made of glass connect with the remains of a customs warehouse in Uribitarte."
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Isozaki Atea Plaza"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's21':
             document.getElementById('NameDaySep').innerHTML="21st of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="Mundaka, a small community in the Basque Country that has picturesque beaches and some of them are surfing-friendly. Town not far from Bilbao. The only main attraction are the beaches that take your breath away"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Mundako"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
@@ -575,9 +575,9 @@ function calSep(September){
         break;
         case 's23':
             document.getElementById('NameDaySep').innerHTML="23rd of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="The city is located in the Oka Valley, which flows into the mouth of the Guernica River. Nearby is the Urdaibai Nature Reserve, which is listed as a UNESCO Biosphere Reserve. The attractions in this city are as follows: Congregation House in Guernica. Peace Museum in Guernica. Fountain in Mercurio Square andIndustria Kalea. Of course, there is also something to eat: Restaurante Zallo Barri - Grill and Taberna Auzokoa - cafeteria"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Guernica"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
@@ -596,36 +596,36 @@ function calSep(September){
         break;
         case 's25':
             document.getElementById('NameDaySep').innerHTML="25th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="Today we recommend visiting the maritime museum. A museum where you can learn about the construction of ships and the operation of ports. This place used to be the port of Bilbao, but now it's not a bad attraction for ship fans."
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Itsasmuseum"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's26':
             document.getElementById('NameDaySep').innerHTML="26th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="Do you remember great scenes in movies where a man fought a bull in the arena? Now you can see it with your own eyes.  It traces the history of bullfighting through texts illustrated with over a hundred photographs, four copies of works by Goya, twenty original posters of the different bullfights, the stuffed heads of famous bulls, two bullfighting suits worn by Antonio Ordóñez, books and models of Bilbao's old bull rings."
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Bullfighting Museum"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's27':
             document.getElementById('NameDaySep').innerHTML="27th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="There will also be something for fans of archeology. In this museum, you can simply visit various archaeological discoveries of people. The perfect attraction for dinosaur and excavation fanatics"
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Archaeological Museum"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
         break;
         case 's28':
             document.getElementById('NameDaySep').innerHTML="28th of September"
-            document.getElementById('AboutEventSep').innerHTML="There are no events this day"
+            document.getElementById('AboutEventSep').innerHTML="In the province of Vizcaya, between Cabo Matsic and Ogonio, a 12-kilometer shoal - along with many other ecosystems - was included in the UNESCO list of biosphere reserves (1984). A few meters from the aquatic vegetation there are oak forests which give an idea of ​​the natural riches of this Rias coast. One of its main attractions is the variety of birds that inhabit it. You can learn about them through the Urdaibai Bird Interpretation Center."
             document.getElementById('AddressSep').innerHTML=""
-            document.getElementById('NameEventSep').innerHTML=""
+            document.getElementById('NameEventSep').innerHTML="Urdaibai Rias coast"
             document.getElementById("NameEventSep2").innerHTML=""
             document.getElementById("AboutEventSep2").innerHTML=""
             document.getElementById("AddressSep2").innerHTML=""
