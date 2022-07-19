@@ -2,8 +2,8 @@ function cal(August){
     switch(August){
         case 'a1':
             document.getElementById('NameDayAug').innerHTML = "1st of August"
-            document.getElementById('AboutEventAug').innerHTML="There are no events this day"
-            document.getElementById("NameEventAug").innerHTML=""
+            document.getElementById('AboutEventAug').innerHTML="On Urazurrutia Street, there is Casa Cuna by Ricardo Bastida, made especially as a kindergarten for the children of workers in Bilbao. The modernist style of this building consists of bricks and tiles, and above the entrance there is a statue that shows what the building was really about. The back of the building overlooks the river and the bridge that leads to Ronda Street"
+            document.getElementById("NameEventAug").innerHTML="Casa Cuna Bilbao"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
