@@ -218,7 +218,7 @@ function cal(August){
             One more year, Doña Casilda Park, the site par excellence of the traditional Bilbaonadas every Aste Nagusia, will once again take center stage every noon with the performance of a group that will bring mythical topics to the audience by everyone known. <br>
             There is Mapa Mundi today. <br> Start at 12:00pm`
             document.getElementById("AddressAug2").innerHTML="Place: Doña Casilda Park, Bilbao" 
-        break;                                       //clench our buttcheecks   
+        break;                                       
         case 'a23':
             document.getElementById("NameDayAug").innerHTML=`23rd of August`
             document.getElementById("NameEventAug").innerHTML="Keniama & Sense Sal" 
@@ -348,7 +348,7 @@ function calSep(September){
         break;
         case 's2':
             document.getElementById('NameDaySep').innerHTML="2nd of September"
-            document.getElementById('AboutEventSep').innerHTML="Bilbao La Vieja, also known as "Bilbi", is a trendy neighborhood on the River Nervión. There are modern clothing boutiques and multicultural restaurants in adapted industrial buildings. Basque artists exhibit their works in independent galleries and paint colorful street murals. Station metro stop is Casco Viejo"
+            document.getElementById('AboutEventSep').innerHTML="Bilbao La Vieja, also known as 'Bilbi', is a trendy neighborhood on the River Nervión. There are modern clothing boutiques and multicultural restaurants in adapted industrial buildings. Basque artists exhibit their works in independent galleries and paint colorful street murals. Station metro stop is Casco Viejo"
             document.getElementById('AddressSep').innerHTML=""
             document.getElementById('NameEventSep').innerHTML="Bilbao La Vieja Area"
             document.getElementById("NameEventSep2").innerHTML=""
