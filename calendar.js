@@ -39,7 +39,7 @@ function cal(August){
         case 'a5':
             document.getElementById('NameDayAug').innerHTML="5th of August"
             document.getElementById('AboutEventAug').innerHTML="The steep streets of Portugalete's old town by the Basque Bridge, one of the most interesting places in the city. This historical and artistic ensemble has kept its old medieval character. Attractions that can be visited there are: Basque Bridge, Riala Museum and Salazar Tower. Of course, you can also eat well in restaurants, such as: Garbatella - Italnian Cuisine and La Bodega - tapas bar"
-            document.getElementById("NameEventAug").innerHTML="Portugaete"
+            document.getElementById("NameEventAug").innerHTML="Portugalete"
             document.getElementById("AddressAug").innerHTML=""
             document.getElementById("NameEventAug2").innerHTML=""
             document.getElementById("AboutEventAug2").innerHTML=""
@@ -632,7 +632,7 @@ function calSep(September){
         break;
         case 's29':
             document.getElementById('NameDaySep').innerHTML="29th of September"
-            document.getElementById('NameEventSep').innerHTML="Conting Crows"
+            document.getElementById('NameEventSep').innerHTML="Counting Crows"
             document.getElementById('AboutEventSep').innerHTML=`For more than two decades, Counting Crows has fascinated listeners around the world with his particular and moving timeless rock and roll. Exploding on the music scene in 1993 with their multiplatinum certified debut album August and Everything After, the band has released seven more studio albums, selling more than 20 million copies worldwide and is considered one of the largest live rock bands in the world.`
             document.getElementById('AddressSep').innerHTML="Place: Discoteca Fever (Sala Santana 27), Bilbao"
             document.getElementById("NameEventSep2").innerHTML=""
